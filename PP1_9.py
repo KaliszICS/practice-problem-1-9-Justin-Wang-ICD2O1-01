@@ -8,8 +8,7 @@ def q1():
 def q2(): 
   #Write Assignment code here
   num = input("Input a word: ")
-  num = num.upper()
-  print(num)
+  print(num.upper()/n num.lower())
 
 
 def q3(): 
